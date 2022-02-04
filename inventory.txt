@@ -1,0 +1,1 @@
+banana 7 apple 2 egg 0 milk 8 sauce 4 chips 5 steak 10
